@@ -4,8 +4,9 @@
 
 
 - giriş yap ekranı(Baran Özdemir)
-![Uploading Screenshot_1689635646.png…]()
-![Uploading Screenshot_1689635634.png…]()
+![Screenshot_1689635646](https://github.com/GrupF-109/Find-Favor/assets/136235551/2a493104-95cd-4801-8239-66b42c5987ff)
+![Screenshot_1689635634](https://github.com/GrupF-109/Find-Favor/assets/136235551/c4da0c75-6fa9-4f6c-82c7-128d7206c899)
+
 
 
 - kayıt ol ekranı(Ecem Tan)
@@ -16,4 +17,4 @@
 
 - yukarıdaki ekranların son hali(Orhan Acer)
 ![Screenshot_1689636334](https://github.com/GrupF-109/Find-Favor/assets/136235551/016db23a-2dad-4373-9ec6-6de743278e60)
-![Uploading Screenshot_1689636329.png…]()
+![Screenshot_1689636329](https://github.com/GrupF-109/Find-Favor/assets/136235551/1c6a6e32-63b1-4f55-89b1-2dd9645a57bc)
